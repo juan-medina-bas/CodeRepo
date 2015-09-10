@@ -1,0 +1,3 @@
+[submodule "ImageRepo"]
+	path = ImageRepo
+	url = t:/Temp/ImageRepo/
